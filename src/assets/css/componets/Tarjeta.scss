@@ -1,0 +1,50 @@
+.cotainer-logo {
+    width: 157px;
+    height: 157px;
+}
+.logo{
+    width: 100%;
+    height: 100%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+.info-card{
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 1px;
+    text-align: initial;
+    width: 250px;
+    margin: 0 40px;
+    
+}
+.info-card-top h2{
+        margin: 0;
+        font-size: 28px;
+        line-height: 36px;
+        letter-spacing: -.005em;
+        font-weight: var(--glue-font-weight-black);
+        text-transform: none;
+    
+}
+.info-card-top{
+    padding-bottom: 10px;
+}
+.info-card-bot{
+    display: flex;
+    flex-direction: column ;
+}
+.container-tarjeta-info{
+    display: flex;
+    flex-direction: row; 
+  
+}
+.container-tarjeta{
+  
+}
