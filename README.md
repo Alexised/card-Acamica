@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Card Acamica
+
+![image-20200306143353039](C:\Users\EQUIPO\AppData\Roaming\Typora\typora-user-images\image-20200306143353039.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
