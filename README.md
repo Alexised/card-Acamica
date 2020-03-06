@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Card Acamica
 
-![image-20200306143353039](C:\Users\EQUIPO\AppData\Roaming\Typora\typora-user-images\image-20200306143353039.png)
+![image-20200306143353039](image-20200306143353039.png)
 
 
 
